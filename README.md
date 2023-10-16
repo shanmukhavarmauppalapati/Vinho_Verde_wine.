@@ -18,3 +18,6 @@ This dataset cotains total 11 columns of data
 
 Output variable (based on sensory data):
 *quality (score between 0 and 10)---> this is based on their calculation they have given the quality rate
+
+
+[dataset link here](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
