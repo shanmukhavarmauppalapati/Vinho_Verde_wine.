@@ -21,3 +21,20 @@ Output variable (based on sensory data):
 
 
 [dataset link here](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+
+During this project, I tried to run SQL queries ranging from simple to most challenging and complex to answer 14 different questions.
+# Question1: Retrieve the first 5 rows of the dataset.
+# Question2 Find the average alcohol content in the dataset.
+# Question3: in the dataset have a quality score greater than or equal to 7?
+# Question4: Retrieve the wines with the highest quality score.
+# Question5: Calculate the average alcohol content for wines with a quality score of 5 or lower and for wines with a quality score of 6 or higher.
+# Question6: Find the wine with the highest alcohol content and the wine with the lowest pH.
+# Question7: Retrieve the wines with a quality score of 7 or 8, and list them in descending order of alcohol content.
+# Question8: Calculate the average residual sugar content for wines with a quality score of 5, 6, and 7.
+# Question9: Find the wine with the highest total sulfur dioxide content and the wine with the lowest volatile acidity.
+# Question10: Retrieve the top 10 wines with the highest fixed acidity.
+# Question11: Find the wines with chlorides above 0.1 and volatile acidity above 0.5.
+# Question12: Calculate the count of wines for each unique quality score in the dataset.
+# Question13: Retrieve wines with a quality score greater than 5 and a citric acid content of at least 0.3.
+# Question 14: Find the wines with a total sulfur dioxide content above 200 and a quality score of 7 or higher.
+
